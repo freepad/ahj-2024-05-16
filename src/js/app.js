@@ -11,4 +11,4 @@ export default function demo(value) {
 
 console.log("app.js included");
 
-hello('Филип')
+hello("Филип");

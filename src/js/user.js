@@ -1,4 +1,5 @@
 export default function hello(username) {
   console.log("Helo ", username);
-  debugger
+  // eslint-disable-next-line
+  debugger;
 }
